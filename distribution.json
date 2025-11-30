@@ -234,6 +234,166 @@
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/Zoomify-2.14.2+1.21.3.jar",
             "MD5": "3b501d83e685e5cc6c7a2e339145434a"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 71,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "Aurora's Shaders.zip",
+          "name": "Aurora's Shaders.zip",
+          "type": "File",
+          "artifact": {
+            "size": 403810,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Aurora's%20Shaders.zip",
+            "path": "shaderpacks/Aurora's Shaders.zip"
+          }
+        },
+        {
+          "id": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "type": "File",
+          "artifact": {
+            "size": 1791406,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+            "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+          }
+        },
+        {
+          "id": "Body Camera Shader - V1.5.1.zip",
+          "name": "Body Camera Shader - V1.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 485144,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Body%20Camera%20Shader%20-%20V1.5.1.zip",
+            "path": "shaderpacks/Body Camera Shader - V1.5.1.zip"
+          }
+        },
+        {
+          "id": "BSL_v10.0.zip",
+          "name": "BSL_v10.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1121678,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/BSL_v10.0.zip",
+            "path": "shaderpacks/BSL_v10.0.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.6.1.zip",
+          "name": "ComplementaryReimagined_r5.6.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 500696,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip",
+            "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.6.1.zip",
+          "name": "ComplementaryUnbound_r5.6.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 500699,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
+          }
+        },
+        {
+          "id": "Kappa_v5.3.zip",
+          "name": "Kappa_v5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3872527,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Kappa_v5.3.zip",
+            "path": "shaderpacks/Kappa_v5.3.zip"
+          }
+        },
+        {
+          "id": "Lux_v1.2.zip",
+          "name": "Lux_v1.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 293764,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Lux_v1.2.zip",
+            "path": "shaderpacks/Lux_v1.2.zip"
+          }
+        },
+        {
+          "id": "Mellow Shader v2.2.zip",
+          "name": "Mellow Shader v2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 325420,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Mellow%20Shader%20v2.2.zip",
+            "path": "shaderpacks/Mellow Shader v2.2.zip"
+          }
+        },
+        {
+          "id": "Noble v1.8.4.zip",
+          "name": "Noble v1.8.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11480841,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Noble%20v1.8.4.zip",
+            "path": "shaderpacks/Noble v1.8.4.zip"
+          }
+        },
+        {
+          "id": "Nostalgia_v5.1.zip",
+          "name": "Nostalgia_v5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1842205,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Nostalgia_v5.1.zip",
+            "path": "shaderpacks/Nostalgia_v5.1.zip"
+          }
+        },
+        {
+          "id": "RedHat_v34.3.zip",
+          "name": "RedHat_v34.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 197014,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/RedHat_v34.3.zip",
+            "path": "shaderpacks/RedHat_v34.3.zip"
+          }
+        },
+        {
+          "id": "Snowimagined-1.1.zip",
+          "name": "Snowimagined-1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 239295,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Snowimagined-1.1.zip",
+            "path": "shaderpacks/Snowimagined-1.1.zip"
+          }
+        },
+        {
+          "id": "Solas Shader V3.1b.zip",
+          "name": "Solas Shader V3.1b.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1301763,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Solas%20Shader%20V3.1b.zip",
+            "path": "shaderpacks/Solas Shader V3.1b.zip"
+          }
+        },
+        {
+          "id": "Spooklementary_v2.0.2.zip",
+          "name": "Spooklementary_v2.0.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 551578,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Spooklementary_v2.0.2.zip",
+            "path": "shaderpacks/Spooklementary_v2.0.2.zip"
+          }
         }
       ]
     }
