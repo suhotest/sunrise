@@ -21,8 +21,7 @@
     {
       "appliesTo": ["files"],
       "patterns": [
-        "options.txt",
-        "shaderpacks/*"
+        "options.txt"
       ]
     }
   ]

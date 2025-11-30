@@ -252,6 +252,7 @@
           "artifact": {
             "size": 403810,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Aurora's%20Shaders.zip",
+            "MD5": "0b6d0d24652f32ad692903f433d66e9e",
             "path": "shaderpacks/Aurora's Shaders.zip"
           }
         },
@@ -262,6 +263,7 @@
           "artifact": {
             "size": 1791406,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+            "MD5": "73eac5d017a268ea8175c2025c2863ad",
             "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
           }
         },
@@ -272,6 +274,7 @@
           "artifact": {
             "size": 485144,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Body%20Camera%20Shader%20-%20V1.5.1.zip",
+            "MD5": "3abbecc162dfb5aca8d5e1c76e8e4e19",
             "path": "shaderpacks/Body Camera Shader - V1.5.1.zip"
           }
         },
@@ -282,6 +285,7 @@
           "artifact": {
             "size": 1121678,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/BSL_v10.0.zip",
+            "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
             "path": "shaderpacks/BSL_v10.0.zip"
           }
         },
@@ -292,6 +296,7 @@
           "artifact": {
             "size": 500696,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip",
+            "MD5": "04c822b2da584e21745869190ac653e6",
             "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
           }
         },
@@ -302,6 +307,7 @@
           "artifact": {
             "size": 500699,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "MD5": "3f83f81df2ad4608d830017425b45bac",
             "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
           }
         },
@@ -312,6 +318,7 @@
           "artifact": {
             "size": 3872527,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Kappa_v5.3.zip",
+            "MD5": "287ed12cca78c568864d85b22d4573af",
             "path": "shaderpacks/Kappa_v5.3.zip"
           }
         },
@@ -322,6 +329,7 @@
           "artifact": {
             "size": 293764,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Lux_v1.2.zip",
+            "MD5": "baef0267d2b23e4c5917144c7ea89526",
             "path": "shaderpacks/Lux_v1.2.zip"
           }
         },
@@ -332,6 +340,7 @@
           "artifact": {
             "size": 325420,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Mellow%20Shader%20v2.2.zip",
+            "MD5": "de487c1d1e25089e8e3d8e121e1bf3e4",
             "path": "shaderpacks/Mellow Shader v2.2.zip"
           }
         },
@@ -342,6 +351,7 @@
           "artifact": {
             "size": 11480841,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Noble%20v1.8.4.zip",
+            "MD5": "bce38b5c7a916683e8e7a0e924249fe5",
             "path": "shaderpacks/Noble v1.8.4.zip"
           }
         },
@@ -352,6 +362,7 @@
           "artifact": {
             "size": 1842205,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Nostalgia_v5.1.zip",
+            "MD5": "38b14a6ce3da2c5b0dfa0fc3018052dd",
             "path": "shaderpacks/Nostalgia_v5.1.zip"
           }
         },
@@ -362,6 +373,7 @@
           "artifact": {
             "size": 197014,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/RedHat_v34.3.zip",
+            "MD5": "168b9257072208073f96b05e1337b56c",
             "path": "shaderpacks/RedHat_v34.3.zip"
           }
         },
@@ -372,6 +384,7 @@
           "artifact": {
             "size": 239295,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Snowimagined-1.1.zip",
+            "MD5": "2acb25e7f8a514a215179cdcfc0be317",
             "path": "shaderpacks/Snowimagined-1.1.zip"
           }
         },
@@ -382,6 +395,7 @@
           "artifact": {
             "size": 1301763,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Solas%20Shader%20V3.1b.zip",
+            "MD5": "12c4864d06d6dd389768ef1a6032934b",
             "path": "shaderpacks/Solas Shader V3.1b.zip"
           }
         },
@@ -392,6 +406,7 @@
           "artifact": {
             "size": 551578,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/shaderpacks/Spooklementary_v2.0.2.zip",
+            "MD5": "2c5e4a4297c303cd4680a2c79a4a02dd",
             "path": "shaderpacks/Spooklementary_v2.0.2.zip"
           }
         }
