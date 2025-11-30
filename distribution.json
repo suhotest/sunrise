@@ -186,6 +186,16 @@
           }
         },
         {
+          "id": "com.gitter:openaudiomc_keybinding_mod:1.0-SNAPSHOT@jar",
+          "name": "Openaudiomc_keybinding_mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 9457,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/openaudiomc_keybinding_mod-1.0-SNAPSHOT.jar",
+            "MD5": "48e5198aaca63d87d7f81b17e7218ce9"
+          }
+        },
+        {
           "id": "generated.fabricmod:placeholder-api:2.5.2+1.21.3@jar",
           "name": "Placeholder API",
           "type": "FabricMod",
