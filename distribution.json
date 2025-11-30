@@ -1,0 +1,231 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "sunrise-1.21.4",
+      "name": "sunrise (Minecraft 1.21.4)",
+      "description": "sunrise Running Minecraft 1.21.4 (Fabric v0.18.1)",
+      "icon": "https://github.com/minsuho/dolpal/raw/main/repo/ico.jpg",
+      "version": "1.0.0",
+      "address": "1.251.106.167",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.18.1",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1944103,
+            "MD5": "eee78db537e19297a4a5966bdad51291",
+            "url": "https://github.com/suhotest/sunrise/raw/main/repo/lib/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.4-fabric-0.18.1",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "fa5d25f9d1dc98accd66a19c5665d1df",
+                "url": "https://github.com/suhotest/sunrise/raw/main/repo/versions/1.21.4-fabric-0.18.1/1.21.4-fabric-0.18.1.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://github.com/suhotest/sunrise/raw/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://github.com/suhotest/sunrise/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://github.com/suhotest/sunrise/raw/main/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://github.com/suhotest/sunrise/raw/main/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://github.com/suhotest/sunrise/raw/main/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1504519,
+                "MD5": "798c8c25fb84d91b384bdee442c249d7",
+                "url": "https://github.com/suhotest/sunrise/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                "url": "https://github.com/suhotest/sunrise/raw/main/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 163711,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/caramelChat-mc1.21.1-fabric-1.2.2.jar",
+            "MD5": "59c8ae912459442c192ff5537bf17f7a"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.9.3@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 472605,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/entityculling-fabric-1.9.3-mc1.21.4.jar",
+            "MD5": "abdc1c4ce547d3839da7004031b63a22"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.119.4+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "MD5": "128a8d042180e7c92567342e21a21a6d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "MD5": "59d373e4874efbcb8fb426bdefa588d9"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3514384,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "MD5": "3893e727701bc66b4f3dbd80a434282d"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:13.0.3@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1050777,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
+            "MD5": "e8884b37fe775f30a0121c4fbdfb32ac"
+          }
+        },
+        {
+          "id": "generated.fabricmod:placeholder-api:2.5.2+1.21.3@jar",
+          "name": "Placeholder API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 237288,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/placeholder-api-2.5.2+1.21.3.jar",
+            "MD5": "80b2dea3d99621d2b76db30a0582665d"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.6@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12217819,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.6.jar",
+            "MD5": "697c58299b7addd59f99ff5a1f873002"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.0+1.21.4-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1129486,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/yet_another_config_lib_v3-3.8.0+1.21.4-fabric.jar",
+            "MD5": "17681212a0394b531ebe88b5e398b5c4"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.14.2+1.21.3@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 807977,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/Zoomify-2.14.2+1.21.3.jar",
+            "MD5": "3b501d83e685e5cc6c7a2e339145434a"
+          }
+        }
+      ]
+    }
+  ]
+}
