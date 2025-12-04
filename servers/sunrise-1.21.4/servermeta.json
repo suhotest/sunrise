@@ -21,7 +21,8 @@
     {
       "appliesTo": ["files"],
       "patterns": [
-        "options.txt"
+        "options.txt",
+        "config/*"
       ]
     }
   ]
