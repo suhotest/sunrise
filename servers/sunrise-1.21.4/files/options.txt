@@ -8,5 +8,3 @@ simulationDistance:16
 skipMultiplayerWarning:true
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
-key_key.journeymap.fullscreen_options:key.keyboard.unknown
