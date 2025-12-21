@@ -1002,11 +1002,22 @@
           }
         },
         {
+          "id": "options - 복사본.txt",
+          "name": "options - 복사본.txt",
+          "type": "File",
+          "artifact": {
+            "size": 362,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/options%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.txt",
+            "MD5": "83e4b490a43e1d55be9ef56cfd0348a4",
+            "path": "options - 복사본.txt"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 338,
+            "size": 4328,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/options.txt",
             "path": "options.txt"
           }
