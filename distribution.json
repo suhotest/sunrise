@@ -316,6 +316,16 @@
           }
         },
         {
+          "id": "com.gitter:sunrise_mod:1.0-SNAPSHOT@jar",
+          "name": "Sunrise_mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8962,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/sunrise_mod-1.0-SNAPSHOT.jar",
+            "MD5": "cadfa965c0a298ff0595b90c45e0bef6"
+          }
+        },
+        {
           "id": "org.watermedia.loaders:watermedia:2.1.23@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
