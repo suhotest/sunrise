@@ -356,6 +356,16 @@
           }
         },
         {
+          "id": "emotecraft.json",
+          "name": "emotecraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/config/emotecraft.json",
+            "path": "config/emotecraft.json"
+          }
+        },
+        {
           "id": "iris-excluded.json",
           "name": "iris-excluded.json",
           "type": "File",
