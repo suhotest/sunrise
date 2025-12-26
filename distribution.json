@@ -1188,14 +1188,14 @@
           }
         },
         {
-          "id": "레일바이크설명.mp4",
-          "name": "레일바이크설명.mp4",
+          "id": "Railbike.mp4",
+          "name": "Railbike.mp4",
           "type": "File",
           "artifact": {
             "size": 57370147,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/videos/%EB%A0%88%EC%9D%BC%EB%B0%94%EC%9D%B4%ED%81%AC%EC%84%A4%EB%AA%85.mp4",
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/videos/Railbike.mp4",
             "MD5": "9b3e0899ce07b8ba3c92a77af0fd249a",
-            "path": "videos/레일바이크설명.mp4"
+            "path": "videos/Railbike.mp4"
           }
         }
       ]
