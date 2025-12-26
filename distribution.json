@@ -226,13 +226,13 @@
           }
         },
         {
-          "id": "com.gtvideoplayer:gtvideoplayer:1.0.0@jar",
+          "id": "com.gtvideoplayer:gtvideoplayer:2.0.0@jar",
           "name": "GTVideoPlayer",
           "type": "FabricMod",
           "artifact": {
-            "size": 29711,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/gtvideoplayer-fabric-1.0.0.jar",
-            "MD5": "2c86d08f7b0975a92c81ce7426224f6b"
+            "size": 29785,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/gtvideoplayer-fabric-2.0.0.jar",
+            "MD5": "4183aa98c084249d8dc29252f09bfb38"
           }
         },
         {
