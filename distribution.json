@@ -12,8 +12,8 @@
       "name": "sunrise (Minecraft 1.21.4)",
       "description": "sunrise Running Minecraft 1.21.4 (Fabric v0.18.1)",
       "icon": "https://github.com/minsuho/sunrise/raw/main/repo/ico.jpg",
-      "version": "4.0.0",
-      "address": "1.251.106.167",
+      "version": "5.0.0",
+      "address": "118.219.21.59",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

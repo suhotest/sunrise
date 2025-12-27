@@ -1,11 +1,11 @@
 {
   "$schema": "file:///C:/Users/11/Documents/GitHub/sunrise/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "name": "sunrise (Minecraft 1.21.4)",
     "description": "sunrise Running Minecraft 1.21.4 (Fabric v0.18.1)",
     "icon": "https://github.com/minsuho/sunrise/raw/main/repo/ico.jpg",
-    "address": "1.251.106.167",
+    "address": "118.219.21.59",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
