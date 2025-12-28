@@ -1177,17 +1177,6 @@
           }
         },
         {
-          "id": "end_1.mp4",
-          "name": "end_1.mp4",
-          "type": "File",
-          "artifact": {
-            "size": 61847099,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/videos/end_1.mp4",
-            "MD5": "4230414388d86dabd0ae6ce24d270821",
-            "path": "videos/end_1.mp4"
-          }
-        },
-        {
           "id": "Railbike.mp4",
           "name": "Railbike.mp4",
           "type": "File",
@@ -1196,6 +1185,17 @@
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/videos/Railbike.mp4",
             "MD5": "9b3e0899ce07b8ba3c92a77af0fd249a",
             "path": "videos/Railbike.mp4"
+          }
+        },
+        {
+          "id": "send.mp4",
+          "name": "send.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 61847099,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/videos/send.mp4",
+            "MD5": "4230414388d86dabd0ae6ce24d270821",
+            "path": "videos/send.mp4"
           }
         }
       ]
