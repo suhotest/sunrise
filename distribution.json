@@ -13,7 +13,7 @@
       "description": "sunrise Running Minecraft 1.21.4 (Fabric v0.18.1)",
       "icon": "https://github.com/minsuho/sunrise/raw/main/repo/ico.jpg",
       "version": "5.0.0",
-      "address": "118.219.21.59",
+      "address": "103.244.118.20",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -999,17 +999,6 @@
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/Twerk.json",
             "MD5": "bbc3354e01b2b61f7fe6b79c4554557a",
             "path": "emotes/Twerk.json"
-          }
-        },
-        {
-          "id": "options - 복사본.txt",
-          "name": "options - 복사본.txt",
-          "type": "File",
-          "artifact": {
-            "size": 362,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/options%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.txt",
-            "MD5": "83e4b490a43e1d55be9ef56cfd0348a4",
-            "path": "options - 복사본.txt"
           }
         },
         {
