@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "generated.fabricmod:allhudbars:1.0.1+1.21.4@jar",
+          "name": "AllHudBars",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 32921,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/allhudbars-1.0.1+1.21.4.jar",
+            "MD5": "668ec8577ebf03bed1c6af54dd7fe5f1"
+          }
+        },
+        {
           "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
           "name": "CaramelChat",
           "type": "FabricMod",
