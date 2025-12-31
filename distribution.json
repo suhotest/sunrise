@@ -1196,15 +1196,14 @@
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/videos/send.mp4",
             "MD5": "4230414388d86dabd0ae6ce24d270821",
             "path": "videos/send.mp4"
-          }
-        },
+          },
         {
           "id": "sendd.mp4",
           "name": "sendd.mp4",
           "type": "File",
           "artifact": {
-            "size": 927599531,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/videos/sendd.mp4",
+            "size": 61847099,
+            "url": "https://www.dropbox.com/scl/fi/urxtbrjywrd0u7lks50s9/sendd.mp4?rlkey=8wylcnf5hjofbdgsokthknhn6&st=cfvaejvz&dl=1",
             "MD5": "2b8570460040dde5050c5fba1c390509",
             "path": "videos/sendd.mp4"
           }
