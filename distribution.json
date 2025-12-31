@@ -1196,7 +1196,8 @@
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/videos/send.mp4",
             "MD5": "4230414388d86dabd0ae6ce24d270821",
             "path": "videos/send.mp4"
-          },
+          }
+        },
         {
           "id": "sendd.mp4",
           "name": "sendd.mp4",
