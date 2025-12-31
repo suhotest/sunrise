@@ -220,9 +220,9 @@
           "name": "GTHud",
           "type": "FabricMod",
           "artifact": {
-            "size": 23717,
+            "size": 23720,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/gthud-fabric-1.21.4-1.0-SNAPSHOT.jar",
-            "MD5": "b7237b5937f661a7fa6c9c4ae43b805a"
+            "MD5": "58e1103141737bc626b486af93ab266e"
           }
         },
         {
